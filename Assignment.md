@@ -1,1 +1,6 @@
-![Alt text](<Screenshot 1.png>)
+![Create user and set expiry date to 2 weeks](<Screenshot 1.png>)
+![prompt the user to change there password on login](<screenshot 2.png>)
+![attach the user to a group called altschool](<screenshot 3.png>)
+![allow altschool group to be able to run only cat command on /etc/](<screenshot 4.png>)
+![Test the Configuration and view the changes made to sudoer file](<screenshot 6.png>)
+![create another user. make sure that this user doesn't have a home directory](<screenshot 5.png>)
